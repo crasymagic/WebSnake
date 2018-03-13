@@ -1,2 +1,2 @@
 # WebSnake
-Snake game developped using p5 library
+Snake game developped using p5.js library
